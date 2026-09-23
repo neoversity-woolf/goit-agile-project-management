@@ -1,6 +1,6 @@
 # Summary
 
-Усі результати досліджень були успішно агреговані та представлені у вигляді [Стратегічного звіту ✦ Svoia Lab](https://neoversity-woolf.github.io/goit-agile-project-management/svoia_market_analysis_infographic.html)
+Усі результати досліджень були успішно агреговані та представлені у вигляді [Стратегічного звіту ✦ Svoia Lab](https://neoversity-woolf.github.io/goit-agile-project-management/infographic.html)
 
 Наступні етапи досліджень можуть включати в себе стратегію виходу на ринок представлену нижче
 
