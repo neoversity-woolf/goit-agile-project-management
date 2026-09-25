@@ -16,16 +16,14 @@
   * [Value Proposition Statament](task-1/stage-3/value-proposition-statament.md)
   * [Unique Selling Proposition](task-1/stage-3/unique-selling-proposition.md)
 
-## TASK 2
+## Task 2
 
 * [Опис Завдання](task-2/opis-zavdannya.md)
 * [Stage 1](task-2/stage-1/README.md)
   * [Гіпотеза](task-2/stage-1/gipoteza.md)
-  * [Збір даних](task-2/stage-1/zbir-danikh.md)
   * [Скрипт інтерв'ю](task-2/stage-1/skript-intervyu.md)
   * [Майданчики для пошуку респондентів](task-2/stage-1/maidanchiki-dlya-poshuku-respondentiv.md)
   * [Текст запрошення до CustDev](task-2/stage-1/tekst-zaproshennya-do-custdev.md)
-  * [Personas](task-2/stage-1/personas.md)
   * [Відповіді респондентів](task-2/stage-1/vidpovidi-respondentiv/README.md)
     * [Олена, 28 р., Мюнхен](task-2/stage-1/vidpovidi-respondentiv/olena-28-r.-myunkhen.md)
     * [Юлія, 25 р., Берлін](task-2/stage-1/vidpovidi-respondentiv/yuliya-25-r.-berlin.md)
@@ -35,6 +33,11 @@
     * [Марина, 30 р., Дрезден](task-2/stage-1/vidpovidi-respondentiv/marina-30-r.-drezden.md)
     * [Наталя, 35 р., Берлін](task-2/stage-1/vidpovidi-respondentiv/natalya-35-r.-berlin.md)
     * [Оксана, 34 р., Кельн](task-2/stage-1/vidpovidi-respondentiv/oksana-34-r.-keln.md)
+  * [Збір даних](task-2/stage-1/zbir-danikh.md)
+  * [Personas](task-2/stage-1/personas/README.md)
+    * [Персона 1: Юлія (Сегмент 0–2 роки)](task-2/stage-1/personas/persona-1-yuliya-segment-0-2-roki.md)
+    * [Персона 2: Катерина (Сегмент 2–4 роки)](task-2/stage-1/personas/persona-2-katerina-segment-2-4-roki.md)
+    * [Персона 3: Оксана (Сегмент 5+ років / Соло-мами)](task-2/stage-1/personas/persona-3-oksana-segment-5+-rokiv-solo-mami.md)
 * [Stage 2](task-2/stage-2/README.md)
   * [Основна інформація по ринку](task-2/stage-2/osnovna-informaciya-po-rinku.md)
   * [Розрахунок TAM, SAM, SOM](task-2/stage-2/rozrakhunok-tam-sam-som.md)
