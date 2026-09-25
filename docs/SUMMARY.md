@@ -27,9 +27,14 @@
   * [Текст запрошення до CustDev](task-2/stage-1/tekst-zaproshennya-do-custdev.md)
   * [Personas](task-2/stage-1/personas.md)
   * [Відповіді респондентів](task-2/stage-1/vidpovidi-respondentiv/README.md)
-    * [Олена (31 рік, Мюнхен, дитина 8 місяців)](task-2/stage-1/vidpovidi-respondentiv/olena-31-rik-myunkhen-ditina-8-misyaciv.md)
-    * [Ірина (27 років, Штутгард, дитина 1.3 роки)](task-2/stage-1/vidpovidi-respondentiv/irina-27-rokiv-shtutgard-ditina-1.3-roki.md)
-    * [Тетяна (29 років, Франкфурт, дитина 2 роки)](task-2/stage-1/vidpovidi-respondentiv/tetyana-29-rokiv-frankfurt-ditina-2-roki.md)
+    * [Олена, 28 р., Мюнхен](task-2/stage-1/vidpovidi-respondentiv/olena-28-r.-myunkhen.md)
+    * [Юлія, 25 р., Берлін](task-2/stage-1/vidpovidi-respondentiv/yuliya-25-r.-berlin.md)
+    * [Анна, 30 р., Варшава](task-2/stage-1/vidpovidi-respondentiv/anna-30-r.-varshava.md)
+    * [Катерина, 32 р., Кельн](task-2/stage-1/vidpovidi-respondentiv/katerina-32-r.-keln.md)
+    * [Ірина, 28 р., Франкфурт](task-2/stage-1/vidpovidi-respondentiv/irina-28-r.-frankfurt.md)
+    * [Марина, 30 р., Дрезден](task-2/stage-1/vidpovidi-respondentiv/marina-30-r.-drezden.md)
+    * [Наталя, 35 р., Берлін](task-2/stage-1/vidpovidi-respondentiv/natalya-35-r.-berlin.md)
+    * [Оксана, 34 р., Кельн](task-2/stage-1/vidpovidi-respondentiv/oksana-34-r.-keln.md)
 * [Stage 2](task-2/stage-2/README.md)
   * [Основна інформація по ринку](task-2/stage-2/osnovna-informaciya-po-rinku.md)
   * [Розрахунок TAM, SAM, SOM](task-2/stage-2/rozrakhunok-tam-sam-som.md)
@@ -49,3 +54,7 @@
 * [Опис завдання](task-4/opis-zavdannya.md)
 * [Stage 1](task-4/stage-1.md)
 * [Stage 2](task-4/stage-2.md)
+
+***
+
+* [Майданчики для пошуку респондентів](maidanchiki-dlya-poshuku-respondentiv.md)
