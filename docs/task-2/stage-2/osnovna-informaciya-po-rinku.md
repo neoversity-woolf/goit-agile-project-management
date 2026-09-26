@@ -22,8 +22,8 @@
 
 * Глобальний ринок соціальних мереж: Прогнозується, що до 2030 року він досягне _$397,58 млрд_, демонструючи середньорічний темп зростання (CAGR) на рівні _22,7%_ у період 2025–2030 років.
 * Ринок FemTech: У 2026 році глобальний ринок оцінюється у _$10,67 млрд_, а до 2034 року він може зрости до _$41,14 млрд_ із CAGR _18,37%_.
-* Додатки для батьків (Parenting Apps): Очікується, що цей сегмент зросте до _$1,39 млрд_ до 2030 року (CAGR _17%_).\
-  Додатки для післяпологового догляду: Вузький сегмент додатків для відстеження вагітності та післяпологової підтримки зросте з _$0,71 млрд_ у 2026 році до _$1,27 млрд_ до 2031 року (CAGR _12,52%_).
+* Додатки для батьків (Parenting Apps): Очікується, що цей сегмент зросте до _$1,39 млрд_ до 2030 року (CAGR _17%_).
+* Додатки для післяпологового догляду: Вузький сегмент додатків для відстеження вагітності та післяпологової підтримки зросте з _$0,71 млрд_ у 2026 році до _$1,27 млрд_ до 2031 року (CAGR _12,52%_).
 
 ### Обсяг інвестицій (Venture Capital)
 
@@ -51,29 +51,29 @@
 {% hint style="info" %}
 ## Ринкові дослідження, венчурна аналітика та звіти індустрії
 
-* Technavio: [https://www.technavio.com/](https://www.technavio.com/?utm_source=gemini) — галузеві звіти _Parenting Apps Market Analysis (2025–2030)_ та _Global Social Networking Market Forecast_.
-* Mordor Intelligence: [https://www.mordorintelligence.com/](https://www.mordorintelligence.com/?utm_source=gemini) — звіт _Pregnancy Tracking and Postpartum Care Apps Market — Growth, Trends, and Forecasts (2026–2031)_.
-* Research and Markets: [https://www.researchandmarkets.com/](https://www.researchandmarkets.com/?utm_source=gemini) — глобальний моніторинг ринку мобільних додатків і соціальних платформ.
-* Crunchbase & Dealroom: [https://www.crunchbase.com/](https://www.crunchbase.com/?utm_source=gemini) — венчурне фінансування секторів FemTech, Maternal Health та раунди фінансування стартапів ранніх стадій.
+* Technavio: technavio.com — галузеві звіти [_Parenting Apps Market Analysis (2025–2030)_](https://www.technavio.com/report/parenting-apps-market-industry-analysis) та [_Global Social Networking Market Forecast_](https://www.technavio.com/report/social-networking-market-analysis).
+* Mordor Intelligence: mordorintelligence.com — звіт [_Pregnancy Tracking and Postpartum Care Apps Market — Growth, Trends, and Forecasts (2026–2031)_](https://www.mordorintelligence.com/industry-reports/pregnancy-tracking-and-postpartum-care-apps-market).
+* Research and Markets: [researchandmarkets.com](https://www.researchandmarkets.com/report/parenting-apps#rela0-5926057) — глобальний моніторинг ринку мобільних додатків і соціальних платформ.
+* Crunchbase & Dealroom: [crunchbase.com](https://www.crunchbase.com/discover/organization.companies/57f69ab0eb80ad093b93e3185f1dd69a) — венчурне фінансування секторів FemTech, Maternal Health та раунди фінансування стартапів ранніх стадій.
 {% endhint %}
 
 {% hint style="info" %}
 ## Регуляторні джерела та цифрова медицина Німеччини (DiGA)
 
-* BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte) / DiGA-Verzeichnis: [https://diga.bfarm.de/](https://diga.bfarm.de/?utm_source=gemini) — офіційний реєстр цифрових додатків на рецепт, медичні критерії та стандарти ціноутворення відшкодування через Krankenkasse.
-* Ecker + Ecker Health Economics: [https://www.ecker-ecker.de/](https://www.ecker-ecker.de/?utm_source=gemini) — аналітика середніх ставок відшкодування DiGA за 90-денний цикл лікування.
-* Dietrich Healthcare Consulting: [https://dietrich.healthcare/](https://dietrich.healthcare/?utm_source=gemini) — нормативно-правова база цифрового закону Німеччини (DVG / DigiG).
+* BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte) / DiGA-Verzeichnis: [diga.bfarm.de](https://diga.bfarm.de/de/verzeichnis?age=%5B%2241847000%22%5D\&category=%5B%2277%22%2C%2278%22%2C%2286%22%5D\&gender=%5B%22female%22%5D\&platform=%5B%22apple-app-store%22%2C%22web-app%22%5D) — офіційний реєстр цифрових додатків на рецепт, медичні критерії та стандарти ціноутворення відшкодування через Krankenkasse.
+* Ecker + Ecker Health Economics: [ecker-ecker.de](https://www.ecker-ecker.de/publikationen/statistik-fuer-market-access) — аналітика середніх ставок відшкодування DiGA за 90-денний цикл лікування.
+* Dietrich Healthcare Consulting: [dietrich.healthcare](https://dietrich.healthcare/digitale-gesundheitsanwendungen/) — нормативно-правова база цифрового закону Німеччини (DVG / DigiG).
 {% endhint %}
 
 {% hint style="info" %}
 ## Академічні та клінічні дослідження (NCBI / PubMed)
 
-* National Center for Biotechnology Information (NCBI / PMC): [https://pmc.ncbi.nlm.nih.gov/](https://pmc.ncbi.nlm.nih.gov/?utm_source=gemini) — дослідження ризиків перинатальної депресії, тривожних розладів та впливу мовного бар'єра на матерів-мігранток (PMC4982239, PMC6838010, PMC13053300).
+* National Center for Biotechnology Information (NCBI / PMC): pmc.ncbi.nlm.nih.gov — дослідження ризиків перинатальної депресії, тривожних розладів та впливу мовного бар'єра на матерів-мігранток ([PMC4982239](http://pmc.ncbi.nlm.nih.gov/articles/PMC6838010/), [PMC6838010](https://pmc.ncbi.nlm.nih.gov/articles/PMC4982239/), [PMC13053300](https://pmc.ncbi.nlm.nih.gov/articles/PMC13053300/)).
 {% endhint %}
 
 {% hint style="info" %}
 ## Платформи дистрибуції, продуктові бенчмарки та конкуренти
 
-* Apple App Store & Google Play Store: показники завантажень, рейтинги та відгуки додатків Peanut, Momunity та Bumble BFF.
-* SoftWr & PCMag Tech Reviews: [https://www.softwr.com/](https://www.softwr.com/?utm_source=gemini), [https://www.pcmag.com/](https://www.pcmag.com/?utm_source=gemini) — порівняльний аналіз функціоналу, протоколів верифікації та вартості платних підписок мобільних додатків.
+* Apple App Store & Google Play Store: показники завантажень, рейтинги та відгуки додатків [Peanut](https://apps.apple.com/ua/app/peanut-find-mom-friends/id1178656034?l=uk) та [Bumble BFF](https://apps.apple.com/ua/app/bff-make-friends-meet-up/id1478573199?l=uk).
+* SoftWr Tech Reviews: [softwr.com](https://www.softwr.com/search?q=comparative%20analysis%20of%20functionality%2C%20verification%20protocols%2C%20and%20paid%20subscription%20costs%20for%20mobile%20applications) — порівняльний аналіз функціоналу, протоколів верифікації та вартості платних підписок мобільних додатків.
 {% endhint %}
