@@ -1,14 +1,14 @@
 # Personas
 
-{% content-ref url="persona-1-yuliya-segment-0-2-roki.md" %}
-[persona-1-yuliya-segment-0-2-roki.md](persona-1-yuliya-segment-0-2-roki.md)
+{% content-ref url="persona-1-yuliya-segment-nemovlyata-0-18-mis.md" %}
+[persona-1-yuliya-segment-nemovlyata-0-18-mis.md](persona-1-yuliya-segment-nemovlyata-0-18-mis.md)
 {% endcontent-ref %}
 
-{% content-ref url="persona-2-katerina-segment-2-4-roki.md" %}
-[persona-2-katerina-segment-2-4-roki.md](persona-2-katerina-segment-2-4-roki.md)
+{% content-ref url="persona-2-katerina-segment-todleri-18-mis-3-roki.md" %}
+[persona-2-katerina-segment-todleri-18-mis-3-roki.md](persona-2-katerina-segment-todleri-18-mis-3-roki.md)
 {% endcontent-ref %}
 
-{% content-ref url="persona-3-oksana-segment-5+-rokiv-solo-mami.md" %}
-[persona-3-oksana-segment-5+-rokiv-solo-mami.md](persona-3-oksana-segment-5+-rokiv-solo-mami.md)
+{% content-ref url="persona-3-oksana-solo-mami.md" %}
+[persona-3-oksana-solo-mami.md](persona-3-oksana-solo-mami.md)
 {% endcontent-ref %}
 
