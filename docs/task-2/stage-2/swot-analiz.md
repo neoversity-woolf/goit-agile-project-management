@@ -1,6 +1,6 @@
 # SWOT-аналіз
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZfgzOYIjIG93s3qYMnG0fgVn_MxtnBR2cygWDqzvZaR93l8IyRkc5Aieu3t5KMLFp-KuOmWf8dJHi/pubhtml?gid=214734216&single=true" %}
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1QE4_AibTpxsIWJRbs_ng9GVcYg08y4EyHFxtd4fUONIRfJhbkJ-O22DxUY0DAg/pubhtml?gid=1231736791&single=true" %}
 
 #### Висновки за результатами аналізу:
 

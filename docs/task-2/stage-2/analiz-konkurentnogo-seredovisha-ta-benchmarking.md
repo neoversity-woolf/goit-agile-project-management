@@ -6,7 +6,7 @@ description: >-
 
 # Аналіз конкурентного середовища та бенчмаркінг
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBB5NMxnhQ6e98Zf9HxoXbGAppPPtlMzEDL5l_QUZdaEHhQgB-5_bDzbakgYpJ2KItC7HIzjq3Sy0_/pubhtml?gid=1535814847&single=true" %}
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1QE4_AibTpxsIWJRbs_ng9GVcYg08y4EyHFxtd4fUONIRfJhbkJ-O22DxUY0DAg/pubhtml?gid=705833230&single=true" %}
 
 Існуючі рішення лише частково задовольняють потреби цільової аудиторії.
 
