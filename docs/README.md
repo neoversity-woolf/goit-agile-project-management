@@ -1,8 +1,9 @@
 ---
 description: Everything you need to explore your projects on the platform.
 icon: hand-wave
-cover: .gitbook/assets/Svoia Logo.jpeg
-coverY: -2.7303851640513557
+cover: .gitbook/assets/своя.jpeg
+coverY: 0
+coverHeight: 492
 layout:
   width: default
   cover:
